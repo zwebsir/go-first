@@ -105,27 +105,8 @@
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
-        <dependency>
-            <groupId>cn.hutool</groupId>
-            <artifactId>hutool-all</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-        </dependency>
-
         <!--服务商sdk-->
-        <dependency>
-            <groupId>com.aliyun</groupId>
-            <artifactId>alidns20150109</artifactId>
-            <version>3.0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>com.tencentcloudapi</groupId>
-            <artifactId>tencentcloud-sdk-java-dnspod</artifactId>
-            <version>3.1.749</version>
-        </dependency>
+       
 
     </dependencies>
 
